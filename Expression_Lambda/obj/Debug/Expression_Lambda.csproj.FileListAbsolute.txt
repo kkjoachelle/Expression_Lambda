@@ -1,0 +1,7 @@
+C:\Users\KOFFI\source\repos\Expression_Lambda\Expression_Lambda\bin\Debug\Expression_Lambda.exe.config
+C:\Users\KOFFI\source\repos\Expression_Lambda\Expression_Lambda\bin\Debug\Expression_Lambda.exe
+C:\Users\KOFFI\source\repos\Expression_Lambda\Expression_Lambda\bin\Debug\Expression_Lambda.pdb
+C:\Users\KOFFI\source\repos\Expression_Lambda\Expression_Lambda\obj\Debug\Expression_Lambda.csprojAssemblyReference.cache
+C:\Users\KOFFI\source\repos\Expression_Lambda\Expression_Lambda\obj\Debug\Expression_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\KOFFI\source\repos\Expression_Lambda\Expression_Lambda\obj\Debug\Expression_Lambda.exe
+C:\Users\KOFFI\source\repos\Expression_Lambda\Expression_Lambda\obj\Debug\Expression_Lambda.pdb
